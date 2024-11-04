@@ -1,0 +1,24 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Battleship with Java/*
+!/Battleship with Java/task/
+/Battleship with Java/task/*
+!/Battleship with Java/task/src
+
+# Project exclude paths
+/Topics/Abstract class/Calculating areas of rectangles and circles/out/
+/Topics/Abstract class/Calculating areas of rectangles and circles/out/production/classes/
+/Topics/Debugging techniques/Find the error/out/
+/Topics/Debugging techniques/Find the error/out/production/classes/
+/Topics/Polymorphism/Find mistake/out/
+/Topics/Polymorphism/Find mistake/out/production/classes/
